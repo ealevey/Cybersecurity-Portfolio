@@ -21,7 +21,7 @@ Runs a set of recon commands on a given domain.
 ```bash
 bash recon.sh example.com
 ```
-
+[Recon.sh can be found here](/Bash-Tools/recon.sh)
 ---
 
 ## 🧹 cleaner.sh – Disk Cleanup Script
@@ -31,7 +31,7 @@ Deletes common temp folders and clears apt cache.
 ```bash
 bash cleaner.sh
 ```
-
+[Cleaner.sh can be found here](/Bash-Tools/cleaner.sh)
 ---
 
 ## 🛡️ backup.sh – Folder Backup Utility
@@ -41,7 +41,7 @@ Compresses a folder into a `.tar.gz` archive with a timestamp.
 ```bash
 bash backup.sh /path/to/folder
 ```
-
+[Backup.sh can be found here](/Bash-Tools//backup.sh)
 ---
 
 ## 📄 Notes
