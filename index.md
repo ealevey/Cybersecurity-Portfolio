@@ -13,14 +13,15 @@ I'm currently studying for the **CEHv12** and **CWISA-102** certifications, and 
 
 ### 🛠️ Technical Skills
 
-- **Scripting**: Python, Bash, REXX, JavaScript
+- **Scripting**: Bash, REXX, JCL, Powershell, Javascript
+- **Coding**:  Python, JavaScript, C++, SQL
 - **Security Tools**: Wireshark, Burp Suite, OWASP Juice Shop, Metasploit
-- **Labs & Platforms**: Hack The Box, TryHackMe, NCL, Juice Shop
-- **Certs in Progress**: CEHv12 (test May 3), CWISA-102, Security+, and my Pentest+
+- **Labs & Platforms**: Hack The Box, TryHackMe, NCL, Juice Shop, CyberQuest
+- **Certs in Progress**: CEHv12 (test May 3), CWISA-102, Security+, Pentest+
 
 ---
 
-### 📁 [View My Projects](projects/index.md)
+### 📁 [View My Projects](Cybersecurity-Portfolio/projects.md)
 
 ---
 
