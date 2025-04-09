@@ -21,7 +21,7 @@ I'm currently studying for the **CEHv12** and **CWISA-102** certifications, and 
 
 ---
 
-### 📁 [View My Projects](Cybersecurity-Portfolio/projects.md)
+### 📁 [View My Projects](projects.md)
 
 ---
 
