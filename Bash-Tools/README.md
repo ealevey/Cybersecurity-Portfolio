@@ -1,6 +1,6 @@
 # 🛠️ Bash Tools Collection
 
-This folder contains three beginner-friendly Bash scripts designed for cybersecurity tasks, system maintenance, and automation. Each one is fully commented for learning and customization.
+This folder contains three scripts. These are all Bash Scripts as tools, one is a cybersecurity task, one is for system maintenence, and lastly the third one is for automation.
 
 ```text
 /Bash-Tools/
