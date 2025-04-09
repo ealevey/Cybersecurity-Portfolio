@@ -25,4 +25,4 @@ I'm currently studying for the **CEHv12** and **CWISA-102** certifications, and 
 
 ---
 
-### 📄 [Download My Resume](resume.pdf)
+### 📄 [Download My Resume](Resume.pdf)
