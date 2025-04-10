@@ -51,6 +51,7 @@ host $DOMAIN
 echo "[+] Recon complete."
 ```
 [Recon.sh can be found here](/Bash-Tools/recon.sh)
+
 ---
 
 ### 2. **Cleaner.sh – Disk Cleanup Script**
@@ -66,6 +67,7 @@ A Bash script designed to automate system cleanup tasks, including clearing temp
 - File management and cleanup
 - Automation of routine system tasks
 
+**Code:**
 ```bash
 bash cleaner.sh
 #!/bin/bash
@@ -83,6 +85,7 @@ sudo find /var/log -type f -name "*.log" -mtime +7 -exec rm -f {} \;
 echo "[+] Cleanup complete."
 ```
 [Cleaner.sh can be found here](/Bash-Tools/cleaner.sh)
+
 ---
 
 ### 3. **Backup.sh – Folder Backup Utility**
@@ -98,6 +101,7 @@ Backup.sh is a Bash script designed to automate the process of creating backups 
 - Error Handling
 - Cron Jobs (if added to cron)
 
+**Code:**
 ```bash
 bash backup.sh /path/to/folder
 #!/bin/bash
@@ -123,17 +127,20 @@ tar -czf  "$ARCHIVE" "$FOLDER"
 echo "[+] Backup saved as $ARCHIVE"
 ```
 [Backup.sh can be found here](/Bash-Tools//backup.sh)
+
+---
+
 **If adding a Cron job (OPTIONAL)**
 To add to Cron Jobs: (This example will be for midnight)
-- Download Backup.sh, in your terminal do [chmod +x /path/to/backup.sh]
-- [crontab -e] (This will open your crontab file)
-- In your file add [0 0 * * * /path/to/backup.sh /path/to/folder]
+- Download Backup.sh, in your terminal do `chmod +x /path/to/backup.sh`
+- `crontab -e` (This will open your crontab file)
+- In your file add `0 0 * * * /path/to/backup.sh /path/to/folder`
 - Save and quit
-- Optional: Check your cron logs, [grep CRON /var/log/syslog]
+- Optional: Check your cron logs, `grep CRON /var/log/syslog`
 
 Other use cases:
-- Every hour [0 * * * * /path/to/backup.sh /path/to/folder]
-- Every Sunday at 2 am [0 2 * * 0 /path/to/backup.sh /path/to/folder]
+- Every hour `0 * * * * /path/to/backup.sh /path/to/folder`
+- Every Sunday at 2 am `0 2 * * 0 /path/to/backup.sh /path/to/folder`
 ---
 
 ## 📄 Notes
