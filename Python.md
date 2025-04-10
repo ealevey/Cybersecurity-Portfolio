@@ -1,5 +1,5 @@
 # 🐍 Python Projects
-Welcome to my collection of Python scripts and tools. These projects show practical use of control flow, data structures, and logic in Python.
+Welcome to my collection of Python scripts. These projects show practical use of control flow, data structures, and logic in Python.
 
 
 ---
