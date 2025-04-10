@@ -1,4 +1,4 @@
-## Labs & Platforms
+## Labs and Platforms
 
 ### Hack The Box
 Hack The Box is a platform that allows you to practice penetration testing skills by solving security challenges and compromising virtual machines.
