@@ -25,9 +25,10 @@ When these systems fail, the impact is immediate. When they’re protected, ever
 ### 🛠️ Technical Skills
 
 - **Security Tools**: Wireshark, Burp Suite, OWASP Juice Shop, Metasploit
+- **Experience and Case Studies**: Script Kiddie Incident (2025)
 - **Labs and Platforms**: Hack The Box, TryHackMe, NCL, Juice Shop, CyberQuest
 - **Professional Associations/Groups**:  ISACA, ISC2, NCL, CSA, Malware Village, and I'm currently applying for the Digital Forensics Association
-- **Experience and Case Studies**: Script Kiddie Incident (2025)
+
 ---
 
 ### [View my experience and Case Studies](expcase.md)
