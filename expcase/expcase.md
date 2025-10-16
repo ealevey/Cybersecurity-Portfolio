@@ -9,7 +9,7 @@ This section showcases three types of work:
 
 Click any item to read the full case study or lab walkthrough.
 
-### [Apartment Printer Link (2025)](applink.md)
+### [Apartment Printer Link (2025)](expcase/applink.md)
  Investigated and resolved a malicious script incident on a peer's system.
 
 
