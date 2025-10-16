@@ -1,4 +1,4 @@
-## Experience & Case Studies
+## Experience and Case Studies
 This section showcases three types of work:
 
 - **Real-world experience** — short case studies of incidents I investigated and remediated.  

@@ -30,7 +30,6 @@ When these systems fail, the impact is immediate. When they’re protected, ever
 - **Experience and Case Studies**: Script Kiddie Incident (2025)
 ---
 
-### 📁 [View My Projects](projects.md)
 ### [View my experience and Case Studies](expcase.md)
 ---
 
