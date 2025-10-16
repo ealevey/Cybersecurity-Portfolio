@@ -1,4 +1,4 @@
-## Apartment Printer Link (2025)
+# Apartment Printer Link (2025)
 
 ## Summary
 Responded remotely to an active Remote Access Trojan (RAT) infection on a Windows 10 device located in a campus apartment. The end-user reported pop-ups followed by unauthorized remote control of the mouse, confirming live attacker presence. Incident was escalated to me after initial troubleshooting attempts by another technical stakeholder (Computer Science student).
